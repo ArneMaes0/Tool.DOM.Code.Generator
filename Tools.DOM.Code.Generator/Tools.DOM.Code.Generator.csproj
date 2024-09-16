@@ -37,6 +37,7 @@
     <PackageReference Include="Skyline.DataMiner.CICD.FileSystem" Version="1.0.6" />
     <PackageReference Include="Skyline.DataMiner.Files.Skyline.DataMiner.Storage.Types" Version="10.4.9" />
     <PackageReference Include="Skyline.DataMiner.Files.SLNetTypes" Version="10.4.9" />
+    <PackageReference Include="Skyline.DataMiner.Files.SLProtoBufLibrary" Version="10.4.9" />
     <PackageReference Include="System.CommandLine" Version="2.0.0-beta4.22272.1" />
   </ItemGroup>
 
