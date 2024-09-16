@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.11.35219.272
+VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOM Code Generator", "DOM Code Generator\DOM Code Generator.csproj", "{9985327D-F5A1-4AFF-B6D5-397242FD6BD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tools.DOM.Code.Generator", "Tools.DOM.Code.Generator\Tools.DOM.Code.Generator.csproj", "{134A99E7-8217-4451-B7AF-F023CB30EBE6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0F04A076-E693-4879-9E15-4323E7E626B7}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +17,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9985327D-F5A1-4AFF-B6D5-397242FD6BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9985327D-F5A1-4AFF-B6D5-397242FD6BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9985327D-F5A1-4AFF-B6D5-397242FD6BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9985327D-F5A1-4AFF-B6D5-397242FD6BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{134A99E7-8217-4451-B7AF-F023CB30EBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134A99E7-8217-4451-B7AF-F023CB30EBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{134A99E7-8217-4451-B7AF-F023CB30EBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134A99E7-8217-4451-B7AF-F023CB30EBE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {43DCC146-8B1E-4320-BF1A-240607D9BA05}
+		SolutionGuid = {DB2502FF-62E2-4C46-981F-E90B896F1F4A}
 	EndGlobalSection
 EndGlobal
